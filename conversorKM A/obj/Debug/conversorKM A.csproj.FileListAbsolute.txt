@@ -1,0 +1,22 @@
+D:\conversorKM A\conversorKM A\bin\Debug\conversorKM A.exe.config
+D:\conversorKM A\conversorKM A\bin\Debug\conversorKM A.exe
+D:\conversorKM A\conversorKM A\bin\Debug\conversorKM A.pdb
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.AssemblyReference.cache
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.SuggestedBindingRedirects.cache
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM_A.Form1.resources
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM_A.Properties.Resources.resources
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.GenerateResource.cache
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.CoreCompileInputs.cache
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.exe
+D:\conversorKM A\conversorKM A\obj\Debug\conversorKM A.pdb
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\bin\Debug\conversorKM A.exe.config
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\bin\Debug\conversorKM A.exe
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\bin\Debug\conversorKM A.pdb
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.AssemblyReference.cache
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.exe.config
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM_A.Form1.resources
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM_A.Properties.Resources.resources
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.GenerateResource.cache
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.csproj.CoreCompileInputs.cache
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.exe
+D:\AplicacoesDesktop\conversorKM A\conversorKM A\obj\Debug\conversorKM A.pdb
